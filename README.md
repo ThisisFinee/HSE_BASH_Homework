@@ -171,6 +171,7 @@
 ## Задание 10
 Название: [sorter.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-10/sorter.sh)    
 Папка: [Excercise-10](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-10)
+
 Описание:
   - Автоматически сортирует файлы в указанной директории:
     - Изображения (.jpg, .jpeg, .png, .gif) -> Images/
