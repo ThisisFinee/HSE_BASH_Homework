@@ -1,6 +1,6 @@
 ## Задание 1
-Название: list_files.sh
-Папка: Exercise-1
+Название: [list_files.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-1/list_files.sh)    
+Папка: [Exercise-1](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-1)
 
 Описание:
   - Перечисляет все файлы и директории в текущей директории с указанием типа.
@@ -18,8 +18,8 @@
 Остальные файлы используются для проверки работы скрипта
 
 ## Задание 2
-Название: path_update.sh
-Папка: Exercise-2
+Название: [path_update.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-2/path_update.sh)    
+Папка: [Exercise-2](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-2)
 
 Описание:
   - Показывает текущий PATH.
@@ -40,8 +40,8 @@
     или просто закройте и откройте терминал.
 
 ## Задание 3
-Название: number_input.sh
-Папка: Exercise-3
+Название: [number_input.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-3/number_input.sh)    
+Папка: [Exercise-3](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-3)
 
 Описание:
   - Запрашивает целое число у пользователя.
@@ -56,8 +56,8 @@
   Далее вводим число
 
 ## Задание 4
-Название: functions.sh
-Папка: Exercise-4
+Название: [functions.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-4/functions.sh)    
+Папка: [Exercise-4](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-4)
 
 Описание:
   - Функция greet: принимает строку и выводит "Hello, <строка>".
@@ -76,8 +76,8 @@
   echo "Результат: $result"
 
 ## Задание 5
-Название: bg_jobs.sh
-Папка: Exercise-5
+Название: [bg_jobs.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-5/bg_jobs.sh)    
+Папка: [Exercise-5](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-5)
 
 Описание:
   - Запускает 3 фоновых процесса (sleep) и показывает, как получить список задач и управлять ими.
@@ -96,8 +96,8 @@
   kill <PID>   # убить по PID
 
 ## Задание 6
-Название: io_redirect.sh
-Папка: Exercise-6
+Название: [io_redirect.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-6/io_redirect.sh)    
+Папка: [Exercise-6](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-6)
 
 Описание:
   - Демонстрирует чтение из файла input.txt.
@@ -114,8 +114,8 @@
 Остальные файлы используются для проверки работы скрипта
 
 ## Задание 7
-Название: alias_setup.sh
-Папка: Exercise-7
+Название: [alias_setup.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-7/alias_setup.sh)    
+Папка: [Exercise-7](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-7)
 Описание:
   - Добавляет постоянный alias ll='ls -la' в ~/.bashrc (если ещё не добавлен).
   - Инструкции по автодополнению (bash-completion).
@@ -137,8 +137,8 @@
   - Пример использования: введите 'cd Doc' и нажмите TAB — автодополнение подскажет директорию.
 
 ## Задание 8
-Название: backup_manager.sh
-Папка: Exercise-8
+Название: [backup_manager.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-8/backup_manager.sh)    
+Папка: [Exercise-8](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-8)
 
 Описание:
   - Копирует все файлы из SOURCE_DIR в DEST_DIR, добавляя дату (YYYY-MM-DD) к имени каждого файла.
@@ -150,10 +150,11 @@
 
 Пример запуска:
   ./backup_manager.sh test_data new_test_data result.log
+  Результат выполнения уже находится в папке задания
 
 ## Задание 9
-Название: monitor.sh
-Папка: Exercise-9
+Название: [monitor.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-9/monitor.sh)    
+Папка: [Exercise-9](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-9)
 
 Описание:
   - Собирает данные о загрузке CPU, использовании памяти и дискового пространства.
@@ -168,8 +169,8 @@
   ./monitor.sh my.log 75  # лог -> my.log, порог 75%
 
 ## Задание 10
-Название: sorter.sh
-Папка: Excercise-10
+Название: [sorter.sh](https://github.com/ThisisFinee/HSE_BASH_Homework/blob/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-10/sorter.sh)    
+Папка: [Excercise-10](https://github.com/ThisisFinee/HSE_BASH_Homework/tree/f2a9821199b744b045d8cfcfeced1d600ae3fa85/Exercise-10)
 Описание:
   - Автоматически сортирует файлы в указанной директории:
     - Изображения (.jpg, .jpeg, .png, .gif) -> Images/
