@@ -1,0 +1,5 @@
+Backup started at 2025-11-01 01:46:41
+2025-11-01 01:46:41 COPIED test_data/1.txt -> new_test_data/./1_2025-11-01.txt
+2025-11-01 01:46:41 COPIED test_data/2.txt -> new_test_data/./2_2025-11-01.txt
+2025-11-01 01:46:41 COPIED test_data/3.json -> new_test_data/./3_2025-11-01.json
+Backup finished at 2025-11-01 01:46:41. Files copied: 3. Errors: 0
